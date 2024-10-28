@@ -2,4 +2,4 @@ numpy
 pandas
 streamlit
 yfinance
-pyportfolioopt
+pyportfolioopt==1.5.5
