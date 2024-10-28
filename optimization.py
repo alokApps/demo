@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 
 def get_optimal_portfolio(capital, term , risk):
-    result = pd.read_excel("risk_result_v1.19.xlsx")
+    result = pd.read_excel("risk_result_v2.1.xlsx")
     
     result = result.dropna()
     print(result.head())
