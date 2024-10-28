@@ -1,0 +1,5 @@
+numpy==1.24.4
+pandas==1.5.3
+streamlit==1.36.0
+yfinance==0.2.31
+pyportfolioopt==1.5.5
